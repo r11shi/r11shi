@@ -1,5 +1,5 @@
-<h1 align="center">yooo! I'm Rushi</h1>
-<h3 align="center">I like building things that sounds cool.</h3>
+<h1 align="left">yooo! I'm Rushi</h1>
+<h3 align="left">I like building things that sounds cool.</h3>
 
 - 👨‍💻 All of my projects are available at [bento.me/r11shi](bento.me/r11shi)
 
