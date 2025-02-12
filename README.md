@@ -1,7 +1,7 @@
 <h1 align="left">yooo! I'm Rushi</h1>
 <h3 align="left">I like building things that solves my problems</h3>
 
-- 👨‍💻 [bento.me/r11shi](bento.me/r11shi)
+- 👨‍💻 [bento.me/r11shi](https://www.bento.me/r11shi)
 
 - 📫 How to reach me **r11shi@proton.me**
 
